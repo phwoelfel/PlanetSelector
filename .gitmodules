@@ -1,0 +1,6 @@
+[submodule "PluginBaseFramework"]
+	path = PluginBaseFramework
+	url = https://github.com/phwoelfel/PluginBaseFramework.git
+[submodule "PlanetSelector/PluginBaseFramework"]
+	path = PlanetSelector/PluginBaseFramework
+	url = https://github.com/phwoelfel/PluginBaseFramework.git
